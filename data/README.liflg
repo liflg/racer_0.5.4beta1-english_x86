@@ -1,0 +1,47 @@
+
+				Racer: english version 0.5.4beta1
+			         	    (http://www.racer.nl/)
+
+========================================
+
+ABOUT
+=====
+
+        Racer is a free cross-platform car simulation project
+	(for non-commercial use), using professional car physics
+	to achieve a realistic feeling and an excellent render engine
+        for graphical realism.
+	Cars, tracks and such can be created relatively easy
+        (compared to other, more closed, driving simulations).
+        The 3D, physics and other file formats are documented.
+        Editors and support programs are also available
+	to get a very customizable and expandable simulator.
+        OpenGL is used for rendering.
+	
+SYSTEM REQUIREMENTS
+===============
+
+	You need the following package versions to run
+	the games you install with a LIFLG installer:
+
+	glibc >= 2.3.5
+
+RUNNING THE GAME
+=============
+
+	Run "racer" to play.
+
+NOTES
+====
+ 
+	- after adding cars and/or tracks,
+          run "lowerize data" from within the installation directory
+          to search and correct filenames with uppercase names
+ 
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
